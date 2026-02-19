@@ -1,9 +1,5 @@
 # Code Review Bot
 
-Here is your project description formatted properly as a **clean GitHub README.md file**.
-
-You can copy-paste this directly into your `README.md`.
-
 ---
 
 # Software Defect Prediction Using Machine Learning
